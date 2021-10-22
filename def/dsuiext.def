@@ -1,0 +1,6 @@
+LIBRARY "dsuiext.dll"
+EXPORTS
+DsBrowseForContainerA
+DsBrowseForContainerW
+DsGetFriendlyClassName
+DsGetIcon

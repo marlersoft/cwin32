@@ -1,0 +1,12 @@
+LIBRARY "CRYPTUI.dll"
+EXPORTS
+CertSelectionGetSerializedBlob
+CryptUIDlgCertMgr
+CryptUIDlgSelectCertificateFromStore
+CryptUIDlgViewCertificateA
+CryptUIDlgViewCertificateW
+CryptUIDlgViewContext
+CryptUIWizDigitalSign
+CryptUIWizExport
+CryptUIWizFreeDigitalSignContext
+CryptUIWizImport

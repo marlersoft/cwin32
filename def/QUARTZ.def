@@ -1,0 +1,4 @@
+LIBRARY "QUARTZ.dll"
+EXPORTS
+AMGetErrorTextA
+AMGetErrorTextW

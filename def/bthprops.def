@@ -1,0 +1,8 @@
+LIBRARY "bthprops.dll"
+EXPORTS
+BluetoothAuthenticateDevice
+BluetoothAuthenticateDeviceEx
+BluetoothAuthenticateMultipleDevices
+BluetoothDisplayDeviceProperties
+BluetoothSelectDevices
+BluetoothSelectDevicesFree

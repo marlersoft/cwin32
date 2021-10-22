@@ -1,0 +1,4 @@
+LIBRARY "MFCORE.dll"
+EXPORTS
+MFCreateExtendedCameraIntrinsicModel
+MFCreateExtendedCameraIntrinsics

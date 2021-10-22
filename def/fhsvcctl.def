@@ -1,0 +1,9 @@
+LIBRARY "fhsvcctl.dll"
+EXPORTS
+FhServiceBlockBackup
+FhServiceClosePipe
+FhServiceOpenPipe
+FhServiceReloadConfiguration
+FhServiceStartBackup
+FhServiceStopBackup
+FhServiceUnblockBackup

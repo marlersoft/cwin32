@@ -1,0 +1,7 @@
+LIBRARY "RstrtMgr.dll"
+EXPORTS
+RmAddFilter
+RmCancelCurrentTask
+RmGetFilterList
+RmJoinSession
+RmRemoveFilter

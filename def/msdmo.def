@@ -1,0 +1,13 @@
+LIBRARY "msdmo.dll"
+EXPORTS
+DMOEnum
+DMOGetName
+DMOGetTypes
+DMORegister
+DMOUnregister
+MoCopyMediaType
+MoCreateMediaType
+MoDeleteMediaType
+MoDuplicateMediaType
+MoFreeMediaType
+MoInitMediaType

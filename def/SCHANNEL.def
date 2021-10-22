@@ -1,0 +1,10 @@
+LIBRARY "SCHANNEL.dll"
+EXPORTS
+SslCrackCertificate
+SslEmptyCacheA
+SslEmptyCacheW
+SslFreeCertificate
+SslGenerateRandomBits
+SslGetExtensions
+SslGetMaximumKeySize
+SslGetServerIdentity

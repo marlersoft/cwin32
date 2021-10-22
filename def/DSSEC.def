@@ -1,0 +1,6 @@
+LIBRARY "DSSEC.dll"
+EXPORTS
+DSCreateISecurityInfoObject
+DSCreateISecurityInfoObjectEx
+DSCreateSecurityPage
+DSEditSecurity

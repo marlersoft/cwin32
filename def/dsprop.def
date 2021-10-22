@@ -1,0 +1,9 @@
+LIBRARY "dsprop.dll"
+EXPORTS
+ADsPropCheckIfWritable
+ADsPropCreateNotifyObj
+ADsPropGetInitInfo
+ADsPropSendErrorMessage
+ADsPropSetHwnd
+ADsPropSetHwndWithTitle
+ADsPropShowErrorDialog

@@ -1,0 +1,4 @@
+LIBRARY "efswrt.dll"
+EXPORTS
+ProtectFileToEnterpriseIdentity
+UnprotectFile

@@ -1,0 +1,10 @@
+LIBRARY "NETSH.dll"
+EXPORTS
+MatchEnumTag
+MatchToken
+PreprocessCommand
+PrintError
+PrintMessage
+PrintMessageFromModule
+RegisterContext
+RegisterHelper

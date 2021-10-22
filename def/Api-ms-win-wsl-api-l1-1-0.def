@@ -1,0 +1,9 @@
+LIBRARY "Api-ms-win-wsl-api-l1-1-0.dll"
+EXPORTS
+WslConfigureDistribution
+WslGetDistributionConfiguration
+WslIsDistributionRegistered
+WslLaunch
+WslLaunchInteractive
+WslRegisterDistribution
+WslUnregisterDistribution

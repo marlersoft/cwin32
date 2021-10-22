@@ -1,0 +1,8 @@
+LIBRARY "Amsi.dll"
+EXPORTS
+AmsiCloseSession
+AmsiInitialize
+AmsiOpenSession
+AmsiScanBuffer
+AmsiScanString
+AmsiUninitialize

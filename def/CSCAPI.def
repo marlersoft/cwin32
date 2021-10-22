@@ -1,0 +1,6 @@
+LIBRARY "CSCAPI.dll"
+EXPORTS
+OfflineFilesEnable
+OfflineFilesQueryStatus
+OfflineFilesQueryStatusEx
+OfflineFilesStart

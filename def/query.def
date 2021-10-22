@@ -1,0 +1,6 @@
+LIBRARY "query.dll"
+EXPORTS
+BindIFilterFromStorage
+BindIFilterFromStream
+LoadIFilter
+LoadIFilterEx

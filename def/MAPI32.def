@@ -1,0 +1,3 @@
+LIBRARY "MAPI32.dll"
+EXPORTS
+MAPIFreeBuffer

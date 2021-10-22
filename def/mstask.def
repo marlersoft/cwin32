@@ -1,0 +1,4 @@
+LIBRARY "mstask.dll"
+EXPORTS
+GetNetScheduleAccountInformation
+SetNetScheduleAccountInformation

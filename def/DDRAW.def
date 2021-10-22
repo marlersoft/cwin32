@@ -1,0 +1,9 @@
+LIBRARY "DDRAW.dll"
+EXPORTS
+DirectDrawCreate
+DirectDrawCreateClipper
+DirectDrawCreateEx
+DirectDrawEnumerateA
+DirectDrawEnumerateExA
+DirectDrawEnumerateExW
+DirectDrawEnumerateW

@@ -1,0 +1,8 @@
+LIBRARY "WSCAPI.dll"
+EXPORTS
+WscGetAntiMalwareUri
+WscGetSecurityProviderHealth
+WscQueryAntiMalwareUri
+WscRegisterForChanges
+WscRegisterForUserNotifications
+WscUnRegisterChanges

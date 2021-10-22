@@ -1,0 +1,5 @@
+LIBRARY "SHDOCVW.dll"
+EXPORTS
+DoPrivacyDlg
+ImportPrivacySettings
+SoftwareUpdateMessageBox

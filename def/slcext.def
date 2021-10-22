@@ -1,0 +1,6 @@
+LIBRARY "slcext.dll"
+EXPORTS
+SLAcquireGenuineTicket
+SLActivateProduct
+SLGetReferralInformation
+SLGetServerStatus

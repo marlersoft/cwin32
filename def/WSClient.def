@@ -1,0 +1,5 @@
+LIBRARY "WSClient.dll"
+EXPORTS
+AcquireDeveloperLicense
+CheckDeveloperLicense
+RemoveDeveloperLicense

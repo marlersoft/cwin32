@@ -1,0 +1,8 @@
+LIBRARY "GPEDIT.dll"
+EXPORTS
+BrowseForGPO
+CreateGPOLink
+DeleteAllGPOLinks
+DeleteGPOLink
+ExportRSoPData
+ImportRSoPData

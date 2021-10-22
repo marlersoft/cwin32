@@ -1,0 +1,11 @@
+LIBRARY "NTLANMAN.dll"
+EXPORTS
+NPAddConnection4
+NPGetConnection3
+NPGetConnectionPerformance
+NPGetPersistentUseOptionsForConnection
+QueryAppInstanceVersion
+RegisterAppInstance
+RegisterAppInstanceVersion
+ResetAllAppInstanceVersions
+SetAppInstanceCsvFlags

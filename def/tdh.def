@@ -1,0 +1,14 @@
+LIBRARY "tdh.dll"
+EXPORTS
+TdhAggregatePayloadFilters
+TdhCleanupPayloadEventFilterDescriptor
+TdhCloseDecodingHandle
+TdhCreatePayloadFilter
+TdhDeletePayloadFilter
+TdhEnumerateProviderFilters
+TdhGetDecodingParameter
+TdhGetWppMessage
+TdhGetWppProperty
+TdhLoadManifestFromBinary
+TdhOpenDecodingHandle
+TdhSetDecodingParameter
